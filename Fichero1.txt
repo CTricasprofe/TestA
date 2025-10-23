@@ -1,10 +1,10 @@
 Fichero nº 1
-Fichero 1 segunda edición
-Fichero 3 tercera edición
-Fichero 4 cuarta edición
-edición definitiva
+Fichero X segunda edición
+Fichero X tercera edición
+Fichero X cuarta edición
+edición dfinitiva
 Fichero nº 1
-Fichero 1 segunda edición
-Fichero 3 tercera edición
-Fichero 4 cuarta edición
+Fichero X segunda edición
+Fichero X tercera edición
+Fichero X cuarta edición
 edición definitiva
